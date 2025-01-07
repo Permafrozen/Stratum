@@ -1,1 +1,0 @@
-import{a,t as e}from"../chunks/disclose-version.CRhUSEEb.js";import"../chunks/legacy.CT_aq_pB.js";var p=e("<h1>Welcome to Stratum!!! ! ! ! 1 11 1!! ! !</h1>");function n(t){var o=p();a(t,o)}export{n as component};
