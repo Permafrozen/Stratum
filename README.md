@@ -1,5 +1,10 @@
 # Stratum
-WEBSITE FOR THE SCHIZOPHRENICCC
+
+After changing, deploy to github pages with:
+
+```console
+npm run deploy
+```
 
 ## Credits
 
